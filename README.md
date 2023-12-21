@@ -27,7 +27,3 @@ The Autonomous Warehouse Robot is a simulation project designed to demonstrate a
     python main.py 2
     ```
 
-## Acknowledgments
-
-This project was inspired by a class project at Georgia Institute of Technology.
-

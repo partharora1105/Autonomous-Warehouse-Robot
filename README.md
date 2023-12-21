@@ -13,7 +13,7 @@ The Autonomous Warehouse Robot is a simulation project designed to demonstrate a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Autonomous-Warehouse-Robot.git
+    git clone https://github.com/partharora1105/Autonomous-Warehouse-Robot.git
     ```
 
 2. Run the simulation to find objects
